@@ -1,1 +1,1 @@
-Run descpgen.py to extract images and generate description for the same.
+Run main.py to extract images and generate description and upoload to database at the same time.
